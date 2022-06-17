@@ -1,0 +1,5 @@
+# Ignore venv folder
+modules/
+
+# Ignore pycache folder
+__pycache__/
